@@ -6,5 +6,5 @@ For this project, I have used NodeMCU, an open-source IOT platform. I preferred 
 Along with NodeMCU, I have used two sensors. An ultrasonic sensor to determine the level of garbage in the container, and an MQ2 sensor to detect hazardous waste.
 For the database, I have used Firebase as it was most the suited to connect to multiple sensors and the Android app. 
 
-To build this project, the classical iterative waterfall model was followed: phases consisting of feasibility study, requirement analysis, design, coding, unit testing, integration, system testing and maintenace were executed, all in a continuous feedback loop.
+To build this project, the classical iterative waterfall model was followed: phases consisting of feasibility study, requirement analysis, design, coding, unit testing, integration, system testing and maintenance were executed, all in a continuous feedback loop.
 
